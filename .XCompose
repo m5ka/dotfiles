@@ -1,0 +1,62 @@
+include "%L"
+
+<Multi_key> <plus> <h> : "ʰ" # aspirated
+<Multi_key> <plus> <H> : "ʱ" # breathy voiced
+<Multi_key> <plus> <j> : "ʲ" # palatalized
+<Multi_key> <plus> <w> : "ʷ" # labialized
+<Multi_key> <plus> <g> : "ˠ" # velarized
+<Multi_key> <plus> <B> : "ᵝ" # lip compression
+<Multi_key> <plus> <n> : "ⁿ" # pre-nasal
+<Multi_key> <plus> <J> : "ᶮ" # pre-nasal (palatal)
+<Multi_key> <plus> <m> : "ᵐ" # pre-nasal (labial)
+<Multi_key> <plus> <N> : "ᵑ" # pre-nasal (velar)
+<Multi_key> <plus> <l> <r> : "͑" # combining left half ring above (less rounded)
+<Multi_key> <plus> <m> <r> : "͗" # combining right half ring above (more rounded)
+<Multi_key> <backslash> <h> : "̥" # combining ring below (voiceless)
+<Multi_key> <backslash> <v> : "̬" # combining caron ibelow (voiced)
+<Multi_key> <backslash> <underscore> : "̱" # combining macron below
+<Multi_key> <backslash> <apostrophe> : "́" # combining acute (stressed)
+<Multi_key> <backslash> <backslash> : "́" # combining acute (stressed)
+<Multi_key> <backslash> <equal> : "̄" # combining macron (long)
+<Multi_key> <backslash> <n> : "̃" # combining tilde
+<Multi_key> <backslash> <bar> : "̩" # combining vertical line below (syllabic)
+<Multi_key> <backslash> <r> <r> : "̝" # combining up tack below (raised)
+<Multi_key> <backslash> <l> <l> : "̞" # combining down tack below (lowered)
+<Multi_key> <backslash> <l> <r> : "̜" # combining left half ring below (less rounded)
+<Multi_key> <backslash> <m> <r> : "̹" # combining right half ring below (more rounded)
+<Multi_key> <backslash> <asciicircum> : "̯" # combining inverted breve below (semi-vowel/non-syllabic)
+<Multi_key> <backslash> <b> : "ь" # slavic soft sign
+<Multi_key> <backslash> <B> : "ъ" # slavic hard sign
+<Multi_key> <question> <period> : "ʔ" # glottal stop
+<Multi_key> <Greek_beta> <Greek_beta> : "ϝ" # lowercase digamma
+<Multi_key> <Greek_BETA> <Greek_BETA> : "Ϝ" # uppercase digamma
+<Multi_key> <Greek_eta> <Greek_eta> : "ͱ" # lowercase heta
+<Multi_key> <Greek_ETA> <Greek_ETA> : "Ͱ" # uppercase heta
+<Multi_key> <e> <h> : "ɛ"
+<Multi_key> <a> <h> : "ɑ"
+<Multi_key> <i> <h> : "ɪ"
+<Multi_key> <y> <h> : "ʏ"
+<Multi_key> <u> <h> : "ʊ"
+<Multi_key> <o> <h> : "ɔ"
+<Multi_key> <g> <h> : "ɣ"
+<Multi_key> <t> <h> : "θ"
+<Multi_key> <a> <a> : "ɐ"
+<Multi_key> <e> <o> : "ɞ"
+<Multi_key> <u> <i> : "ɯ"
+<Multi_key> <s> <j> : "ɕ"
+<Multi_key> <z> <j> : "ʑ"
+<Multi_key> <n> <y> : "ɲ"
+<Multi_key> <n> <j> : "ɲ"
+<Multi_key> <s> <h> : "ʃ"
+<Multi_key> <z> <h> : "ʒ"
+<Multi_key> <j> <h> : "ɟ"
+<Multi_key> <b> <h> : "β"
+<Multi_key> <j> <j> : "ʝ"
+<Multi_key> <h> <w> : "ʍ"
+<Multi_key> <w> <w> : "ʍ"
+<Multi_key> <p> <h> : "ɸ"
+<Multi_key> <l> <h> : "ɬ"
+<Multi_key> <colon> <colon> : "ː"
+<Multi_key> <apostrophe> <period> : "ˈ"
+<Multi_key> <apostrophe> <apostrophe> : "ʼ"
+<Multi_key> <o> <k> : "ʻ"
